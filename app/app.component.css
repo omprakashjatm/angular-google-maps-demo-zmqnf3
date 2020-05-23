@@ -1,0 +1,19 @@
+agm-map {
+  height: 650px;
+}
+.ng5-slider-inner-tooltip{
+ display: none;
+}
+
+* {
+  font-family: Lato;
+}
+
+a {
+  color: darkblue;
+}
+::ng-deep {
+   .ng5-slider-inner-tooltip {
+        display: none;
+      }
+}
